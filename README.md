@@ -1,7 +1,7 @@
 # Data_Science_courses_HomeWork
 Homework notebooks for different Data Science courses which I took.
 
-MIPT + Yandex courses:
+MIPT + Yandex courses HW:
 1) Choosing distributions in Naive Bayes.ipynb;
 2) Data preprocessing and logistic regression for a binary classification problem.ipynb;
 3) Gradient boosting practice.ipynb;
